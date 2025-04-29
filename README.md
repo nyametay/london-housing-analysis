@@ -12,17 +12,19 @@ The data is obtained from Kaggle and processed using **Pandas**.
 
 ## 📊 Project Overview
 
-This project is designed for beginners looking to learn data analysis with Python. It walks through practical tasks and real-world questions that can be answered from the dataset.
+This project demonstrates how to perform practical data analysis on real-world housing data using Python. By working with the London Housing Dataset, we explore key trends in property prices and crime rates over time. The notebook includes data cleaning, feature engineering, and query-based insights to answer specific business-related questions.
 
 ### Tasks Performed:
 
-- 🗓 Convert the `date` column to datetime format
-- 📅 Add `year` and `month` columns to the dataframe
+- 🗓 Converting and formatting date fields
+- 📅 Extracting time-based features (year, month)
 - 🧹 Remove redundant columns
+- 🔍 Filtering and querying records for specific conditions
 - 🔍 Identify records with `No. of Crimes` = 0
 - 💹 Find maximum & minimum `average_price` per year in England
 - 📌 Determine max/min number of crimes per area
 - 📉 Count of records per area where average price < £100,000
+- Identifying trends in pricing and crime distribution
 
 ---
 
