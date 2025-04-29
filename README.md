@@ -39,7 +39,7 @@ This project demonstrates how to perform practical data analysis on real-world h
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/london-housing-analysis.git
+git clone https://github.com/nyametay/london-housing-analysis.git
 cd london-housing-analysis
 pip install -r requirements.txt
 ```
